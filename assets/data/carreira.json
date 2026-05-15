@@ -1,127 +1,141 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "title": "Benjamin Dominique: Mapa de Carreira",
+    "description": "Mapa de carreira de Benjamin Dominique focado em Engenharia de Software, Desenvolvimento Fullstack e Cybersecurity.",
+    "author": "Benjamin Dominique",
+    "canonicalUrl": "https://seudominio.com/mapa-carreira"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
-    "cvUrl": "#"
+    "name": "Benjamin Dominique",
+    "headline": "Software Engineer em Formação",
+    "photo": "assets/images/benja-mapa.jpg",
+    "photoAlt": "Foto de perfil de Benjamin Dominique",
+    "summary": "Sou estudante de Ciência da Computação com forte veia analítica e paixão por engenharia de software, arquitetura de sistemas e segurança de aplicações. Atuando no ciclo completo de desenvolvimento (Fullstack), dedico-me a projetar ecossistemas robustos de alto desempenho utilizando tecnologias como Java (Spring Boot) e C# (.NET), além de criar interfaces modernas e fluidas. Busco ir além do nível superficial do código, aprofundando-me em fundamentos computacionais, estruturas de dados, algoritmos, redes e cybersecurity para garantir soluções resilientes desde a concepção (DevSecOps). Combinando rigor lógico, mentalidade global e facilidade de aprendizado, meu foco é liderar tecnicamente a construção de plataformas inteligentes que gerem impacto real, com especial interesse nos setores de saúde digital e defesa cibernética.",
+    "cvUrl": "assets/data/Currículo 2026.pdf"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "benjamindominiquedev@gmail.com",
+      "url": "mailto:benjamindominiquedev@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/benjamin-dominique-53aa93308/"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "GitHub",
+      "url": "https://github.com/bendominique"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Engenharia de Software & Arquitetura Backend",
+      "description": "Foco na arquitetura de soluções escaláveis, modelagem de dados eficientes e segurança no lado do servidor. Capacidade de liderar decisões arquiteturais baseadas em princípios de código limpo (SOLID), garantindo estabilidade e manutenibilidade a longo prazo. Possíveis carreiras: Software Engineer, Backend Engineer, Software Architect e Platform Engineer.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Pensamento analítico e crítico",
+        "Resolução de problemas complexos",
+        "Autonomia e tomada de decisão técnica (Liderança)",
+        "Curiosidade intelectual e aprendizado contínuo"
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
+        "Java",
+        "C# (.NET)",
+        "Spring Boot",
+        "APIs RESTful",
+        "Estruturas de Dados",
+        "SOLID",
+        "Arquitetura",
+        "MongoDB & SQL"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvimento Mobile e UI Engineering",
+      "description": "Área focada no desenvolvimento de aplicações multiplataforma, interfaces modernas e experiência do usuário. Tenho interesse em aplicações mobile utilizando Kotlin e React Native, além da construção de interfaces intuitivas, organizadas e funcionais. Possíveis carreiras: Android Developer, Mobile Engineer, UI Engineer, Frontend Engineer e Product Engineer.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Criatividade",
+        "Visão de produto",
+        "Comunicação",
+        "Organização"
       ],
       "roadmap": [
+        "Kotlin",
+        "Android Studio",
         "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "React Native",
+        "UI/UX"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Cybersecurity e Segurança de Aplicações",
+      "description": "Área voltada para segurança de aplicações, análise de vulnerabilidades, redes e proteção de sistemas. Demonstro grande interesse em compreender profundamente infraestrutura, protocolos e segurança ofensiva/defensiva. Possíveis carreiras: Security Engineer, AppSec Engineer, SOC Analyst, Malware Analyst, Pentester e Security Researcher.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Pensamento crítico",
+        "Investigação técnica",
+        "Atenção aos detalhes",
+        "Raciocínio lógico"
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "TCP/IP",
+        "Modelo OSI",
+        "Linux",
+        "AppSec",
+        "Segurança Web"
+      ]
+    },
+    {
+      "title": "Inteligência Artificial Aplicada à Saúde",
+      "description": "Área focada na integração entre tecnologia, monitoramento inteligente e soluções voltadas para saúde digital. Tenho interesse em construir sistemas capazes de gerar impacto social utilizando IA, automação e análise de dados. Possíveis carreiras: AI Engineer, HealthTech Engineer, Machine Learning Engineer e Healthcare Systems Developer.",
+      "softSkills": [
+        "Empatia",
+        "Inovação",
+        "Visão estratégica",
+        "Pensamento sistêmico"
+      ],
+      "roadmap": [
+        "IA Aplicada",
+        "HealthTech",
+        "Análise de Dados",
+        "Integração de Sistemas"
       ]
     }
   ],
   "skillGroups": [
     {
-      "title": "Frontend",
+      "title": "Interfaces e Mobile",
       "skills": [
-        {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
-        },
-        {
-          "name": "React",
-          "level": 70
-        }
+        { "name": "React & TypeScript", "level": 85 },
+        { "name": "Kotlin & Android Studio", "level": 75 },
+        { "name": "UI/UX Funcional", "level": 70 }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Engenharia Backend",
       "skills": [
-        {
-          "name": "Node.js e APIs",
-          "level": 65
-        },
-        {
-          "name": "SQL",
-          "level": 60
-        }
+        { "name": "Java & Spring Boot", "level": 85 },
+        { "name": "C# (.NET)", "level": 80 },
+        { "name": "Modelagem NoSQL/SQL", "level": 75 }
+      ]
+    },
+    {
+      "title": "Defesa & Infraestrutura",
+      "skills": [
+        { "name": "Segurança de Aplicações (AppSec)", "level": 70 },
+        { "name": "Redes (TCP/IP & OSI)", "level": 75 },
+        { "name": "Linux & Fundamentos", "level": 80 }
       ]
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Resolução de Problemas",
+    "Git & GitHub",
+    "Metodologias Ágeis",
+    "DevSecOps",
+    "Lógica Matemática"
   ],
   "languages": [
-    {
-      "name": "Portugues",
-      "level": "Nativo"
-    },
-    {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
-    }
+    { "name": "Português", "level": "Nativo" },
+    { "name": "Inglês", "level": "Avançado  " },
+    { "name": "Francês", "level": "Proficiência Fluida" },
+    { "name": "Mandarim", "level": "Em estudo / Básico" }
   ]
 }
